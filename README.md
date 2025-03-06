@@ -1,7 +1,7 @@
 # Code of “Robustness of networked systems under spatially-correlated failure”
 Overview
 This is the code for the paper “Robustness of networked systems under spatially-correlated failure”, which proposes a general framework to investigate the robustness of networks under spatially correlated failure. Here we show the simulation code for the critical experiments and results in this paper. The main function for each experiment is shown below. Note that our code applies to the version of MATLAB 2020b.
-Main Files
+## Main Files
 exp_negative_q.m
 Running this code will produce the variation of S with R for NC networks with different negative correlation strength.
 
